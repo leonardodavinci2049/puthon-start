@@ -1,0 +1,9 @@
+{
+    "code-runner.runInTerminal": true,
+    "code-runner.executorMap": {
+        "python": "clear && python3 -u"
+    },
+    "code-runner.ignoreSelection": true,
+    "python.defaultInterpreterPath": "python"
+
+}
